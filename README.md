@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center"><img src="./banner.svg" alt="Sudipto Bhattacharjee — Food Business × Technology" width="100%"></p>
 
-<!--
-**biryani2bussiness/biryani2bussiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sudipto.
 
-Here are some ideas to get you started:
+Food business growth consultant based in Bengaluru, India. I combine hands-on culinary experience with technology, data and digital commerce to help restaurants build better customer experiences and stronger businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+| Focus | What it means |
+| --- | --- |
+| **Restaurant growth** | Menu engineering, online sales and performance optimisation |
+| **Food commerce** | Direct ordering experiences and scalable multi-brand platforms |
+| **Business analytics** | Sales, margins, operating metrics and reporting |
+| **Automation** | Practical tools that simplify restaurant operations |
+
+## Featured project
+
+### 🍽️ The Bowl Company
+**Presented by The Third Place** · *In development*
+
+A mobile-first direct food ordering experience for PG communities and neighbourhood customers, with plans for installable web apps, merchant operations, reporting and future multi-brand expansion.
+
+**Focus:** Simple ordering · Customer experience · Restaurant operations · Data-driven growth
+
+## Building next
+
+- Restaurant growth and reporting tools
+- Merchant dashboards and workflow automation
+- Scalable food ordering products
+
+---
+
+<p align="center"><b>Food business. Better systems. Sustainable growth.</b></p>
